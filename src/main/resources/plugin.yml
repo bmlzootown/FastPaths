@@ -1,0 +1,24 @@
+name: FastPaths
+version: 0.0.1
+description: Makes a player go faster when walking on certain block(s)
+depend: [WorldGuard]
+author: bmlzootown
+main: ml.bmlzootown.FastPaths
+api-version: 1.13
+
+commands:
+  fastpaths:
+    aliases: [fast, fp]
+    description: FastPath commands
+
+
+permissions:
+  fp.*:
+    description: Give all FastPath permissions
+    children:
+      fp.use: true
+      fp.admin: true
+  fp.use:
+    description: Allows player to use roads
+  fp.admin:
+    description: Generic admin permission
