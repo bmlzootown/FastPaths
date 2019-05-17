@@ -1,5 +1,5 @@
-name: FastPaths
-version: 0.0.1
+name: ${project.name}
+version: ${project.version}
 description: Makes a player go faster when walking on certain block(s)
 depend: [WorldGuard]
 author: bmlzootown
