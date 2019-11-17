@@ -4,7 +4,7 @@ description: Makes a player go faster when walking on certain block(s)
 depend: [WorldGuard]
 author: bmlzootown
 main: ml.bmlzootown.FastPaths
-api-version: 1.13
+api-version: 1.14
 
 commands:
   fastpaths:
