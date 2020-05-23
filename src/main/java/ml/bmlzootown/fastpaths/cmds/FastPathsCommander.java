@@ -1,7 +1,7 @@
-package ml.bmlzootown.cmds;
+package ml.bmlzootown.fastpaths.cmds;
 
-import ml.bmlzootown.FastPaths;
-import ml.bmlzootown.utils.ConfigManager;
+import ml.bmlzootown.fastpaths.FastPaths;
+import ml.bmlzootown.fastpaths.utils.ConfigManager;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

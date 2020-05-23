@@ -1,13 +1,13 @@
-package ml.bmlzootown;
+package ml.bmlzootown.fastpaths;
 
 import com.sk89q.worldguard.WorldGuard;
 import com.sk89q.worldguard.bukkit.WorldGuardPlugin;
 import com.sk89q.worldguard.protection.flags.StateFlag;
 import com.sk89q.worldguard.protection.flags.registry.FlagConflictException;
 import com.sk89q.worldguard.protection.flags.registry.FlagRegistry;
-import ml.bmlzootown.cmds.FastPathsCommander;
-import ml.bmlzootown.events.PlayerMoveListener;
-import ml.bmlzootown.utils.ConfigManager;
+import ml.bmlzootown.fastpaths.cmds.FastPathsCommander;
+import ml.bmlzootown.fastpaths.events.PlayerMoveListener;
+import ml.bmlzootown.fastpaths.utils.ConfigManager;
 import org.bukkit.ChatColor;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.PluginManager;

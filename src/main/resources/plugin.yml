@@ -3,7 +3,7 @@ version: ${project.version}
 description: Makes a player go faster when walking on certain block(s)
 depend: [WorldGuard]
 author: bmlzootown
-main: ml.bmlzootown.FastPaths
+main: ml.bmlzootown.fastpaths.FastPaths
 api-version: 1.15
 
 commands:

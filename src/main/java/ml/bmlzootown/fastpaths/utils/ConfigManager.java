@@ -1,6 +1,6 @@
-package ml.bmlzootown.utils;
+package ml.bmlzootown.fastpaths.utils;
 
-import ml.bmlzootown.FastPaths;
+import ml.bmlzootown.fastpaths.FastPaths;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.Plugin;
 
